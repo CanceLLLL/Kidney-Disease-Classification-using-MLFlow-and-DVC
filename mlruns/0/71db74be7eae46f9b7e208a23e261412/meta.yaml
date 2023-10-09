@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Github%20Projects/Kidney-Disease-Classification-using-MLFlow-and-DVC/mlruns/0/71db74be7eae46f9b7e208a23e261412/artifacts
+end_time: 1696819995930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71db74be7eae46f9b7e208a23e261412
+run_name: useful-whale-602
+run_uuid: 71db74be7eae46f9b7e208a23e261412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696819988901
+status: 3
+tags: []
+user_id: maste

@@ -52,3 +52,6 @@
 [2023-10-09 09:11:40,565: INFO: common: yaml file: config\config.yaml loaded successfully]
 [2023-10-09 09:11:40,566: INFO: common: yaml file: params.yaml loaded successfully]
 [2023-10-09 09:11:40,567: INFO: common: created directory at: artifacts]
+[2023-10-09 09:11:45,967: INFO: common: json file saved at: scores.json]
+[2023-10-09 09:11:49,999: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2023-10-09 09:11:50,436: INFO: builder_impl: Assets written to: C:\Users\maste\AppData\Local\Temp\tmpxa7fsy2_\model\data\model\assets]
